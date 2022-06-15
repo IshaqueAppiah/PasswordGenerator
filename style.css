@@ -1,0 +1,102 @@
+#main {
+	top: 0px;
+	left: 0px;
+	width: 550px;
+	height: 550px;
+	background:rgba(31,41,55,1);
+	display: flex;
+	flex-direction: column;
+	padding-left: 50px;
+	margin-top:50px;
+	margin-left:50vh;
+	border-radius: 20px;
+}
+
+#heading {
+	top: 115px;
+	left: 52px;
+	width: 399px;
+	height: 108px;
+	overflow: hidden;
+	font-family: Karla;
+	font-size: 40px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+	padding-top: 50px;
+}
+
+#subhead{
+
+	color:rgba(16,185,129,1);
+}
+
+#supporting{
+	top: 100px;
+	left: 52px;
+	width: 397px;
+	height: 42px;
+	overflow: hidden;
+	font-family: Inter;
+	font-size: 20px;
+	text-align: left;
+	color:#D5D4D8;
+}
+
+
+#main_button {
+	background: rgba(16,185,129,1);
+	height: 50px;
+	width: 180px;
+	border-radius: 10px;
+	color: white;
+	font-size: 16px;
+
+	
+}
+
+#main_button p {
+	color: white;
+
+
+}
+
+#copy1 , #copy2{
+	background: rgba(16,185,129,1);
+	height: 30px;
+	width: 120px;
+	border-radius: 10px;
+	color: white;
+	font-size: 14px;
+}
+
+#line {
+	margin: 30px;
+	top: 361px;
+	left: 52px;
+	width: 446px;
+	height: 1px;
+	background:#2E3D52;
+}
+
+#password{
+	padding-top: 50px;
+	display: flex;
+
+}
+#password1 ,#password2 {
+	top: 396px;
+	left: 52px;
+	width: 211px;
+	height: 39px;
+	-ms-border-radius: 6px;
+	-o-border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	border-radius: 6px;
+	background:rgba(39.28,53.47,73.35,1);
+	font-size: 18px;
+	color: white;
+	text-align: center;
+
+}
